@@ -9,7 +9,7 @@ A good example of a modal window would be if a user made changes in a site witho
 	- classList.add()
 	- classList.remove()
   
-  
+
 ## Table of contents
 
 - With this , you will get a quick overview 
@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/restaurantMenu.png)
+![](./images/../modal.png)
 
  
 ### Links
